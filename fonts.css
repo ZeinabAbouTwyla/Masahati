@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/IBM-Plex-Sans-Arabic-0.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(fonts/IBM-Plex-Sans-Arabic-1.woff2) format('truetype');
+}
